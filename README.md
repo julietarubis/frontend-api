@@ -1,9 +1,13 @@
 # Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-# Available Scripts
-
+- Open cmd to create the app
+    - npx create-react-app maths-app
+- Navigate the new app
+    - cd maths-app
+- Install the required packages
+    - npm install axios
+- Create the frontend interface
+    - Open the src/App.js
+    - Run the app -> npm start
 In the project directory, you can run:
 
 # `npm start`
